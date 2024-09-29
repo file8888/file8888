@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning ...
+<a href="https://file8888.github.io/guestbook/" target="_blank">Guestbook (방명록)</a>
 
 <!--
 **file8888/file8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
